@@ -506,7 +506,7 @@ st.markdown("""
         </div>
     </div>
     <div class="footer-bottom">
-        Made with <span class="heart">❤️</span> by Vedang Dhuri · © 2026 AURA AI
+        Made by Vedang Dhuri · © 2026 AURA AI
     </div>
 </div>
 """, unsafe_allow_html=True)
